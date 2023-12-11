@@ -91,12 +91,15 @@ table {
 
   h1 {
     font-family: 'Roboto Slab', serif;
+    text-align: center;
   }
   h2 {
     font-family: 'Whisper', cursive;
+    text-align: center;
   }
   h3 {
     font-family: 'Kalnia', serif;
+    text-align: center;
   }
 
 @media (min-width: 992px) and (max-windth: 1200px) {
